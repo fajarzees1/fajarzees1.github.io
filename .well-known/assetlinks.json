@@ -2,7 +2,7 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "android_app",
+      "namespace": "等級碼 ML",
       "package_name": "rixxze.coderankmlbb.id",
       "sha256_cert_fingerprints": ["a1:ee:8a:45:3c:ab:96:9b:ed:78:99:a1:16:94:9c:d2:0a:f3:9d:10:59:df:e6:5b:f7:b6:8d:52:25:3f:12:4c"]
     }
